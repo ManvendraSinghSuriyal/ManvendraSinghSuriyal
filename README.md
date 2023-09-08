@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManvendraSinghSuriyal
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Full stack web development
+- 👀 I’m a Software Developer
+- 🌱 I’m woriking as a Web developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
